@@ -48,7 +48,7 @@ onload = () => {
   });
 
   // ---- private visit counter ----
-  const COUNTER_KEY = "forya-enjy-yousef-visits";
+  const COUNTER_KEY = "forya-gehad-yousef-visits";
   const counterHit = `https://countapi.mileshilliard.com/api/v1/hit/${COUNTER_KEY}`;
   const counterGet = `https://countapi.mileshilliard.com/api/v1/get/${COUNTER_KEY}`;
   const SESSION_KEY = "forya_visit_recorded";
